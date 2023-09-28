@@ -1,6 +1,8 @@
 # ML-Models-from-Scratch
 A repository where I program machine learning models such as SVM, PCA, etc. from scratch in C++
 
+The `perceptrontest.cpp` file contains an example of how the perceptron might be used applied to the Iris dataset.
+
 ## Matrix class
 Supported operations 
 Copy operator using = 
